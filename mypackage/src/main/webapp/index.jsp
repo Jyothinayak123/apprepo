@@ -8,7 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! superbbb hgkg wasdfwsdfg jasghdk FINAL</h1>
-       <h1>Hello World! </h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
